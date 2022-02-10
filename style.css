@@ -34,6 +34,7 @@ body {
     cursor: pointer;
     font-size: 2.5rem;
     transition: 100ms;
+    margin: 20px;
   }
   
   .selection:hover {

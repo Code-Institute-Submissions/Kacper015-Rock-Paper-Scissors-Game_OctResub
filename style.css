@@ -1,0 +1,94 @@
+/* This code is NOT mine .it belongs to this tutorial https://youtu.be/1yS-JV4fWqY - some of it has been changed and added.*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background:white;
+}
+
+header > h1 { 
+    color:black; 
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 4rem;
+    text-transform: uppercase;
+}
+
+body {
+    background-color:gray;
+  }
+  
+  .selections {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .selection {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 2.5rem;
+    transition: 100ms;
+  }
+  
+  .selection:hover {
+    transform: scale(1.5);
+  }
+  
+  .results {
+    margin-top: 1rem;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    justify-items: center;
+    align-items: center;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+  }
+  
+  .result-score {
+    margin-left: .1rem;
+    font-size:  1rem;
+    color: #333;
+  }
+  
+  .result-selection {
+    opacity: .5;
+  }
+  
+  .result-selection.winner {
+    opacity: 1;
+    font-size: 1.5rem;
+  }
+
+
+
+#myForm{
+    position:absolute;
+    bottom: 45px;
+    text-transform: uppercase;
+}
+
+footer{ 
+    background-color: white;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    z-index: 3;
+    text-transform: uppercase;
+}
+
+.computer{
+    color: rgb(255, 81, 0);
+}
+
+.player{
+    color:greenyellow;
+}

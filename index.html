@@ -1,0 +1,44 @@
+<!--This code is NOT mine .it belongs to this tutorial -> https://youtu.be/1yS-JV4fWqY - some of it has been changed and added.-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Rock Paper Scissors Game</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+    <header>
+        <h1>Rock paper scissors game 🤖 </h1>
+    </header>
+  <div class="selections">
+    <button class="selection" data-selection="rock">Rock✊</button>
+    <button class="selection" data-selection="paper">Paper✋</button>
+    <button class="selection" data-selection="scissors">Scissors✌</button>
+  </div>
+  <div class="results">
+    <div class="player">
+      Player
+      <span class="result-score" data-your-score>0</span>
+    </div>
+    <div class="computer" data-final-column>
+      Computer
+      <span class="result-score" data-computer-score>0</span>
+    </div>
+    
+    <form action="https://formdump.codeinstitute.net/" id="myForm" name="myForm" method="POST" target="_blank" onsubmit="return checkForm()">
+        <div>Please submit feedback here</div>
+        <textarea type="text" name="feedback" id="feedback" placeholder="Please leave your feedback here"></textarea>
+        <br>
+        <input type="submit"  value="Submit form">
+        <input type="button" onclick="clearForm()" value="Clear form">
+     </form>
+  </div>
+  <footer>
+      <p>Thank You for playing!</p>
+      <p>Please refresh the page to refresh the results.</p>
+  </footer>
+</body>
+</html>

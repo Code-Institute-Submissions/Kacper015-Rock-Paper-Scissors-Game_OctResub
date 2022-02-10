@@ -75,6 +75,11 @@ body {
     text-transform: uppercase;
 }
 
+textarea {
+  width: 300px;
+  height: 150px;
+}
+
 footer{ 
     background-color: white;
     text-align: center;

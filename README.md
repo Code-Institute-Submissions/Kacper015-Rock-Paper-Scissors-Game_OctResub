@@ -36,7 +36,7 @@ There are a few features on my website like a feedback box or a footer which sim
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Feedback box](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![Feedback box](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f2e7d89db4c8862906c2ad6f9c2d8e6a066a5bb0/Screenshot%202022-02-14%20at%2011.45.03.png)
 
 - __The Footer__ 
 

@@ -82,7 +82,7 @@ Here is a live link to the website- https://kacper015.github.io/Rock-Paper-Sciss
 
 ## Credits 
 
-I have used a tutorial to help myself with coding. I haven't used any fonts or any pictures that don't belong to me. I have used simple emojis such as 👊.
+I have used a tutorial to help myself with coding. I haven't used any fonts or any pictures that don't belong to me. I have used simple emojis such as 👊 that are available for everyone.
 
 ### Content 
 

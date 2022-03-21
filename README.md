@@ -10,26 +10,16 @@ There are a few features on my website like a feedback box or a footer which sim
 
 ### Existing Features
 
-- __Header__
-
-  - The header is a big writing with the name of my game.
-  - It exists only on the main page as this is the only page there is. 
-
-![Header](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/33b3c5c2454129fbca19f8aa0faf2e55f723e85a/Screenshot%202022-02-14%20at%2010.51.51.png)
-
-- __on:Hover feature__
-
-  - This feature makes the Rock 👊 Paper ✋ or Scissors ✌️ bigger when you hover your mouse over it. 
-  - It makes it easier to pick as whatever you pick gets bigger so it is harder to missclick. 
-
-![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/73478fd9bdb6798fa083d5913d0e1bb94deee3c5/Screenshot%202022-02-14%20at%2011.03.11.png)
-
+- __Random generator__
+  
+  -There is a random generator imported to the project. This makes the game interesting as the ship is always in a different position
+ 
 - __Results__
 
-  - The results look really simple, if you win you can see youre sign with full color and when you lose your sign has less color so it is easier to see who win, you or the computer. 
-  - There can be a winner, a loser and a draw. If there is a draw both of the signs are a bit without color. 
+  - The ships are showed on the grid as a O. If you hit it it marks the spot as X.
+  - If you hit all the O in less then 50 bullets you win the game. 
 
-![Results](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/c831554fa81579a6a125388402c98fd2e8c51879/Screenshot%202022-02-14%20at%2011.17.13.png)
+![Results](https://github.com/Kacper015/battleship-game/blob/cc5728905ee23d90cb2f246cdf58e51e71261e03/battleship_2.jpg)
 
 - __Feedback box__
 

@@ -1,12 +1,8 @@
-# Rock Paper Scissors game
+# Battleship game
 
-Rock paper scissors is a really simple game to play. All you need to play it is your hands and a second player but what if you don't have a second player and you would like to play rock paper scissors? You can play on my website with a computer. My website aims at nearly all ages. Rock paper scissors game is very simple to play and nearly all ages can play it.
+Battleship game is a very simple and easy game to play. You have to guess ship position and try to shoot it down. If you shoot all of them down you win. In my opinion this game is aimed at anyone and at any age. 
 
-![Responsice Mockup](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/8b279cd0df4806946956f21ee2115041ecb9d223/Screenshot%202022-02-14%20at%2008.10.39.png)
-
-## Features 
-
-There are a few features on my website like a feedback box or a footer which simply tells you to have fun. All the existing features will be listed down below. 
+![Responsice Mockup](https://github.com/Kacper015/battleship-game/blob/8ed22b446181ba67514020d09d9d8fe36ef941dd/battleship_1.jpg)
 
 ### Existing Features
 

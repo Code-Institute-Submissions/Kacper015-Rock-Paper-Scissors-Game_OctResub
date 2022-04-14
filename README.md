@@ -70,7 +70,7 @@ My website works on different screen sizes like for e.g. phone screen.
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+The game results don't end. They go on and make the website really long.
 
 ## Deployment
 

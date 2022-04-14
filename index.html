@@ -8,6 +8,16 @@
   <title>Rock Paper Scissors Game</title>
   <link rel="stylesheet" href="style.css">
   <script src="script.js" defer></script>
+
+  <style type="text/css">
+    @media screen and (min-width:1px) and (max-width:736px) {
+        
+    }
+    @media screen and (min-width: 736px) {
+        
+    }
+    </style>
+
 </head>
 <body>
     <header>
@@ -18,6 +28,12 @@
     <button class="selection" data-selection="paper">Paper✋</button>
     <button class="selection" data-selection="scissors">Scissors✌</button>
   </div>
+
+  <nav>
+    <a href="home.html" aria-label="Main">Main Page</a>
+    <a href="index.html" aria-label="GAME">refresh</a>
+  </nav>
+
   <div class="results">
     <div class="player">
       Player
@@ -28,7 +44,7 @@
       <span class="result-score" data-computer-score>0</span>
     </div>
     
-    <form action="https://formdump.codeinstitute.net/" id="myForm" name="myForm" method="POST" target="_blank" onsubmit="return checkForm()">
+    <form action="https://formdump.codeinstitute.net/" id="myForm" name="myForm" method="POST" target="_blank">
         <div>Please submit feedback here</div>
         <textarea name="feedback" id="feedback" placeholder="Please leave your feedback here"></textarea>
         <br>
@@ -36,15 +52,18 @@
         <input type="button" onclick="clearForm()" value="Clear form">
      </form>
   </div>
-  <footer>
-    <span>Find us on:</span>
-    
+
+  <footer class="uppercase">
+
+    <span>Social Media:</span>
+
     <a href="https://www.facebook.com" target="_blank" rel="noopener" aria-label="Find us on Facebook (link opens in a new tab)">Facebook</a>
     <a href="https://www.instagram.com" target="_blank" rel="noopener" aria-label="Find us on Instagram (link opens in a new tab)">Instagram</a>
     <a href="https://www.twitter.com" target="_blank" rel="noopener" aria-label="Find us on Twitter (link opens in a new tab)">Twitter</a>
-    
-      <p>Thank You for playing!</p>
-      <p>Please refresh the page to refresh the results.</p>
-  </footer>
+
+    <p>Copyright © Me 2022 🤖</p>
+
+</footer>
+
 </body>
 </html>

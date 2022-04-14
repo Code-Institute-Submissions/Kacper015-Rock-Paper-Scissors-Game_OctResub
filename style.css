@@ -71,13 +71,13 @@ body {
 
 #myForm{
     position:absolute;
-    bottom: 75px;
+    bottom: 65px;
     text-transform: uppercase;
 }
 
 textarea {
-  width: 400px;
-  height: 100px;
+    width: 400px;
+    height: 100px;
 }
 
 footer{ 
@@ -97,4 +97,43 @@ footer{
 
 .player{
     color:greenyellow;
+}
+
+nav {
+  padding: 1rem;
+  text-transform: uppercase;
+}
+
+nav > a {
+  text-decoration: underline;
+  color: beige;
+  margin: 1rem;
+}
+
+nav > a:hover {
+  color: silver;
+}
+
+footer{
+  text-align: center;
+  width: 100%;
+  position:fixed;
+  bottom:0%;
+  background-color: white;
+  text-transform: uppercase;
+}
+
+footer > span {
+color: black;
+}
+
+footer > a {
+color:black;
+text-decoration: none;
+padding: 0 15px;
+font-size: 0.8rem;
+}
+
+footer > p {
+color: black;
 }

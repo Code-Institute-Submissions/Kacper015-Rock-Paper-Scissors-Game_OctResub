@@ -2,7 +2,7 @@
 
 Rock paper scissors is a really simple game to play. All you need to play it is your hands and a second player but what if you don't have a second player and you would like to play rock paper scissors? You can play on my website with a computer. My website aims at nearly all ages. Rock paper scissors game is very simple to play and nearly all ages can play it.
 
-![Game Page](hhttps://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f4c0833ee3ea30dcbf5b3eb5b699250de3fcd511/Media/RockPaperScissorsGamePage.png)
+![Game Page](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/9ebcb9dd5961432783fd5e67dc4b953c3b022b7c/Media/RockPaperScissorsGamePage.png)
 
 There are two pages. The main page shows you how to play, shows you which sign wins and shows the buttons that get bigger when you hover over them. There is a nav bar which can transfers you to the game page. On the game page you can play and refresh your game results and go back to the main page.
 

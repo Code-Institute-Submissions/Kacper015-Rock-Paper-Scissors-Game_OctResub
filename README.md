@@ -19,35 +19,35 @@ There are a few features on my website like a feedback box or a footer which sim
   - The header is a big writing with the name of my game.
   - It exists only on the main page as this is the only page there is. 
 
-![Header](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/33b3c5c2454129fbca19f8aa0faf2e55f723e85a/Screenshot%202022-02-14%20at%2010.51.51.png)
+![Header](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsHeader.png)
 
 - __on:Hover feature__
 
   - This feature makes the Rock 👊 Paper ✋ or Scissors ✌️ bigger when you hover your mouse over it. 
   - It makes it easier to pick as whatever you pick gets bigger so it is harder to missclick. 
 
-![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f4c0833ee3ea30dcbf5b3eb5b699250de3fcd511/Media/RockPaperScissorsButtons.png)
+![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsButtons.png)
 
 - __Results__
 
   - The results look really simple, if you win you can see youre sign with full color and when you lose your sign has less color so it is easier to see who win, you or the computer. 
   - There can be a winner, a loser and a draw. If there is a draw both of the signs are a bit without color. 
 
-![Results](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/c831554fa81579a6a125388402c98fd2e8c51879/Screenshot%202022-02-14%20at%2011.17.13.png)
+![Results](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsResults.png)
 
 - __Feedback box__
 
   - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
   - This section will be updated as these times change to keep the user up to date. 
 
-![Feedback box](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f2e7d89db4c8862906c2ad6f9c2d8e6a066a5bb0/Screenshot%202022-02-14%20at%2011.45.03.png)
+![Feedback box](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsFooter.png)
 
 - __The Footer__ 
 
   - The footer wishes fun to the player and says what to do to refresh the scores. 
   - The footer also shows links to social media. 
 
-![Footer](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f2e7d89db4c8862906c2ad6f9c2d8e6a066a5bb0/Screenshot%202022-02-14%20at%2011.45.03.png)
+![Footer](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsFooter.png)
 
 ### Features Left to Implement
 

@@ -4,7 +4,7 @@ Rock paper scissors is a really simple game to play. All you need to play it is 
 
 ![Game Page](hhttps://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f4c0833ee3ea30dcbf5b3eb5b699250de3fcd511/Media/RockPaperScissorsGamePage.png)
 
-There are two pages. The main page shows you how to play and transfers you to the game page. On the game page you can play and refresh your game results and go back to the main page.
+There are two pages. The main page shows you how to play, shows you which sign wins and shows the buttons that get bigger when you hover over them. There is a nav bar which can transfers you to the game page. On the game page you can play and refresh your game results and go back to the main page.
 
 ![Main Page](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/462a3460cc5045e7123c1fb827c6735a996a3016/Media/RPS%20Main.png)
 

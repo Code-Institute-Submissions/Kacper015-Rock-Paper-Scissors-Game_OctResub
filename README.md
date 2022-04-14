@@ -2,7 +2,11 @@
 
 Rock paper scissors is a really simple game to play. All you need to play it is your hands and a second player but what if you don't have a second player and you would like to play rock paper scissors? You can play on my website with a computer. My website aims at nearly all ages. Rock paper scissors game is very simple to play and nearly all ages can play it.
 
-![Responsice Mockup](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/8b279cd0df4806946956f21ee2115041ecb9d223/Screenshot%202022-02-14%20at%2008.10.39.png)
+There are two pages. The main page shows you how to play and transfers you to the game page. On the game page you can play and refresh your game results and go back to the main page.
+
+![Responsice Mockup](hhttps://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f4c0833ee3ea30dcbf5b3eb5b699250de3fcd511/Media/RockPaperScissorsGamePage.png)
+
+![Main Page](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/462a3460cc5045e7123c1fb827c6735a996a3016/Media/RPS%20Main.png)
 
 ## Features 
 
@@ -22,7 +26,7 @@ There are a few features on my website like a feedback box or a footer which sim
   - This feature makes the Rock 👊 Paper ✋ or Scissors ✌️ bigger when you hover your mouse over it. 
   - It makes it easier to pick as whatever you pick gets bigger so it is harder to missclick. 
 
-![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/73478fd9bdb6798fa083d5913d0e1bb94deee3c5/Screenshot%202022-02-14%20at%2011.03.11.png)
+![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/f4c0833ee3ea30dcbf5b3eb5b699250de3fcd511/Media/RockPaperScissorsButtons.png)
 
 - __Results__
 

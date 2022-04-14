@@ -1,0 +1,82 @@
+body {
+    font-family: 'Open Sans' , Arial;
+    margin: 0;
+    background-color: white;
+}
+
+.page-header { 
+    height: 10vh;
+	background: center / cover no-repeat;
+    padding: 2%;
+    margin: 0px;
+    background-color: black;
+}
+
+.black-background{
+    background-color: black;
+}
+
+nav {
+    background-color: black;
+	padding: 1rem;
+}
+
+nav > a {
+	text-decoration: underline;
+	color: beige;
+	margin: 1rem;
+}
+
+nav > a:hover {
+	color: silver;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.text-center{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    width: 100%;
+    position:fixed;
+    bottom:0%;
+    background-color: black;
+}
+
+footer > span {
+	color: silver;
+}
+
+footer > a {
+	color: beige;
+	text-decoration: none;
+	padding: 0 15px;
+	font-size: 0.8rem;
+}
+
+footer > p {
+	color: silver;
+}
+
+.selections {
+    display: flex;
+    justify-content: center;
+}
+
+.selection {
+    background: none;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 2.5rem;
+    transition: 100ms;
+    margin: 20px;
+}
+  
+.selection:hover {
+    transform: scale(1.5);
+}

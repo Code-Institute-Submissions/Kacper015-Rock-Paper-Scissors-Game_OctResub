@@ -17,14 +17,14 @@ There are a few features on my website like a feedback box or a footer which sim
 - __Header__
 
   - The header is a big writing with the name of my game.
-  - It exists only on the main page as this is the only page there is. 
+  - It exists on both main and the game page.
 
 ![Header](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsHeader.png)
 
 - __on:Hover feature__
 
   - This feature makes the Rock 👊 Paper ✋ or Scissors ✌️ bigger when you hover your mouse over it. 
-  - It makes it easier to pick as whatever you pick gets bigger so it is harder to missclick. 
+  - It makes it easier to pick as whatever you pick gets bigger so it is harder to missclick and you're sure what you are picking.
 
 ![on:Hover](https://github.com/Kacper015/Rock-Paper-Scissors-Game/blob/1ac6e32adbc62c0d4176e01aaafb93321725fa67/Media/RockPaperScissorsButtons.png)
 
